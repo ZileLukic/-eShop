@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,IAAI;CASzB;;AAVD,AAEI,IAFA,CAEA,CAAC,CAAC;EACE,KAAK,EALL,IAAI;EAMJ,SAAS,EAAE,IAAI;CAClB;;AALL,AAMI,IANA,CAMA,EAAE,CAAC;EACC,KAAK,EATL,IAAI;EAUJ,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../../Front End Diveloper/Sass/sass/main.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
